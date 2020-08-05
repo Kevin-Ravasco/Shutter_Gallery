@@ -1,0 +1,37 @@
+{% extends 'shutter/base.html' %}{% block content %}{% load static %}
+
+    <div class="container-fluid photos">
+      <div class="row pt-4 mb-5 text-center">
+        <div class="col-12">
+          <h2 class="text-white mb-4">Update {{ album.name }}</h2>
+        </div>
+      </div>
+
+      <div class="row align-items-stretch">
+        {% for photo in photos %}
+        <div class="col-6 col-md-6 col-lg-4" data-aos="fade-up">
+          <a href="{{ photo.image.url }}" class="d-block photo-item" data-fancybox="gallery">
+            <img src="{{ photo.image.url }}" alt="Image" class="img-fluid">
+            <div class="photo-text-more">
+              <span class="icon icon-search"></span>
+            </div>
+          </a>
+        </div>
+        {% endfor %}
+
+        
+
+      </div>
+
+      <div class="row justify-content-center">
+        <div class="col-md-12 text-center py-5">
+          <p>
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+      </p>
+        </div>
+      </div>
+    </div>
+
+{% endblock content %}
