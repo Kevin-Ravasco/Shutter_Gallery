@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62da0d1a-09d4-4d07-bfde-27557fe3a033" name="Default Changelist" comment="initial commit" />
+    <list id="0c1729c3-ed3b-41f6-b94e-bf45d083b5d1" name="Revert &quot;initial commit&quot;" comment="initial commit" />
+    <list id="67fcec3e-27be-4baf-9170-4371a0e1e1ff" name="Revert &quot;Revert &quot;initial commit&quot;&quot;" comment="Revert &quot;Revert &quot;initial co">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1f5sHBEVVxxwTMl99hRNPDxo3Lk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/shutter/images" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\YOUNG GUNZ\PycharmProjects\Gallery\static\images\profiles" />
+      <recent name="C:\Users\YOUNG GUNZ\PycharmProjects\Gallery\templates\shutter" />
+      <recent name="C:\Users\YOUNG GUNZ\PycharmProjects\Gallery\templates\accounts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\YOUNG GUNZ\PycharmProjects\Gallery\static\shutter\images" />
+      <recent name="C:\Users\YOUNG GUNZ\PycharmProjects\Gallery\static\shutter\js" />
+      <recent name="C:\Users\YOUNG GUNZ\PycharmProjects\Gallery\static\images" />
+      <recent name="C:\Users\YOUNG GUNZ\PycharmProjects\Gallery\templates\account" />
+      <recent name="C:\Users\YOUNG GUNZ\PycharmProjects\Gallery\templates" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62da0d1a-09d4-4d07-bfde-27557fe3a033" name="Default Changelist" comment="" />
+      <created>1595519200302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595519200302</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1596607187863</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596607187868</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1596607852772</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596607852772</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <created>1596616258628</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596616258628</updated>
+    </task>
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1596619590470</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596619590470</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Revert &quot;initial commit&quot;&#10;&#10;This reverts commit 48fa8636">
+      <created>1596619682535</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596619682535</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Revert &quot;initial commit&quot;&#10;&#10;This reverts commit eeb7c2cf">
+      <created>1596620014998</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596620014998</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Revert &quot;Revert &quot;initial commit&quot;&quot;&#10;&#10;This reverts commit 82c7a7ef">
+      <created>1596620960526</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596620960526</updated>
+    </task>
+    <task id="LOCAL-00008" summary="initial commit">
+      <created>1596621208659</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596621208659</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Revert &quot;initial commit&quot;&#10;&#10;This reverts commit 48fa8636" />
+    <MESSAGE value="Revert &quot;initial commit&quot;&#10;&#10;This reverts commit eeb7c2cf" />
+    <MESSAGE value="Revert &quot;initial commit&quot;&#10;&#10;This reverts commit b7d5f1d2" />
+    <MESSAGE value="Revert &quot;Revert &quot;initial commit&quot;&quot;&#10;&#10;This reverts commit 82c7a7ef" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596608061040">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1596608061040" />
+    <state x="442" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595857809526">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="442" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1595857809526" />
+    <state x="323" y="0" key="CommitChangelistDialog2" timestamp="1596620878221">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="323" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1596620878221" />
+    <state x="166" y="53" key="DiffContextDialog" timestamp="1596615090171">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="166" y="53" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1596615090171" />
+    <state x="561" y="282" width="243" height="292" key="Github.ShareDialog" timestamp="1596617559306">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="561" y="282" width="243" height="292" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1596617559306" />
+    <state x="312" y="111" key="Vcs.Push.Dialog.v2" timestamp="1596619569776">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="312" y="111" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1596619569776" />
+    <state x="92" y="92" width="1182" height="584" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1596620598401">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="92" y="92" width="1182" height="584" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1596620598401" />
+    <state x="483" y="118" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1596607415967">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="483" y="118" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.768@0.0.1366.768" timestamp="1596607415967" />
+    <state x="346" y="89" key="search.everywhere.popup" timestamp="1596135023643">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1596135023643" />
+  </component>
+</project>
