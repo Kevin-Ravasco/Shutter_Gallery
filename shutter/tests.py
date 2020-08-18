@@ -227,12 +227,12 @@ class ProfileViewTest(TestCase):
         # profilepic = SimpleUploadedFile("profilepic.jpg", b"file_content", content_type="image/jpeg")
         response = self.client.post(reverse('profile'),
                                     data={'first_name': 'firstNameUpdated', 'last_name': 'lastNameUpdated',
-                                          'phone': 123456, 'image': 'profic2.jpg'})
+                                          'phone': 123456, 'image': 'profic2.jpg'}, content_type='image/jpeg')
         user_profile = Profile.objects.get(user=self.user)
         self.assertEquals(user_profile.first_name, 'firstNameUpdated')
         self.assertEquals(user_profile.last_name, 'lastNameUpdated')
         self.assertEquals(user_profile.phone, 123456)
-        # self.assertEquals(user_profile.image, 'profic2.jpg')
+        self.assertEquals(user_profile.image, 'profic2.jpg')
         self.assertEquals(response.status_code, 302)
         self.assertRedirects(response, reverse('profile'), 302)
 
