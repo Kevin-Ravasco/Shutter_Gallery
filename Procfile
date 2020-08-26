@@ -1,0 +1,1 @@
+web: gunicorn ShutterGallery.wsgi --log-file -
