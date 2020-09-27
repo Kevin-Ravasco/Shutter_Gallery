@@ -164,8 +164,8 @@ MEDIA_ROOT = os.path.join(BASE_DIR, "static/images")
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 '''EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'youngbossravasco@gmail.com'
-EMAIL_HOST_PASSWORD = '072681Ke'
+EMAIL_HOST_USER = 'youremail@gmail.com'
+EMAIL_HOST_PASSWORD = 'youremailpassword'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587'''
 from django.urls import reverse_lazy
